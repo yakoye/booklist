@@ -9,9 +9,9 @@
 |                                                              |                                                              |                                                              |
 | 《谈读书》 朱光潜<img src="./img/956a0b007b3673573215dcbfdb063df.jpg" width="200px" /> | 《给青年的十二封信》 朱光潜<img src="./img/6282397ac59cbfca1a4a9aaf119e4d2.jpg" width="200px" /> | 《美的历程》李泽厚<img src="./img/s3893343.jpg" width="200px" /> |
 |                                                              |                                                              |                                                              |
-| 《老子今注今译》 陈鼓应 注译<img src="./img/81ID59FQ9ML._AC_UF1000,1000_QL80_.jpg" width="200px" /> | 《庄子今注今译》(上下) 陈鼓应 注译<img src="./img/61mUpGkqOzL._AC_UF1000,1000_QL80_.jpg" width="200px" /> | 《周易今注今译》陈鼓应 注译 <img src="./img/61l86ZdUzoL.jpg" width="200px" /> |
+| 《老子今注今译》 陈鼓应 注译 <img src="./img/81ID59FQ9ML._AC_UF1000,1000_QL80_.jpg" width="200px" /> | 《庄子今注今译》(上下) 陈鼓应 注译 <img src="./img/61mUpGkqOzL._AC_UF1000,1000_QL80_.jpg" width="200px" /> | 《周易今注今译》陈鼓应 注译 <img src="./img/61l86ZdUzoL.jpg" width="200px" /> |
 |                                                              |                                                              |                                                              |
-| 《原则》: 瑞·达利欧<img src="./img/71hvjX7BamL._AC_UF1000,1000_QL80_.jpg" width="200px" /> | 《原则：应对变化中的世界秩序》 瑞·达利欧<img src="./img/41aFxxnusgL.jpg" width="200px" /> | 《债务危机》瑞·达利欧(Ray Dalio) <img src="./img/91558RDi0ML._AC_UF1000,1000_QL80_.jpg" width="200px" /> |
+| 《原则》: 瑞·达利欧<img src="./img/71hvjX7BamL._AC_UF1000,1000_QL80_.jpg" width="200px" /> | 《原则：应对变化中的世界秩序》 瑞·达利欧 <img src="./img/41aFxxnusgL.jpg" width="200px" /> | 《债务危机》瑞·达利欧(Ray Dalio) <img src="./img/91558RDi0ML._AC_UF1000,1000_QL80_.jpg" width="200px" /> |
 |                                                              |                                                              |                                                              |
 
 
