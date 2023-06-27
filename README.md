@@ -5,7 +5,7 @@
 
 |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [《臣服实验》迈克·A.辛格(Michael A. Singer)著 易灵运译]("./notes/臣服实验_迈克·A.辛格.md")<br /> <img src="./img/719Vx4hXQlL.jpg" height="200px" /> | 《清醒地活：超越自我的生命之旅》迈克·A.辛格(Michael A. Singer), 汪幼枫, 陈舒<br /> <img src="img/71VoFLv+sBL._AC_UL600_SR600,600_.jpg" height="200px" /> | 《不羁的灵魂:超越自我的旅程》迈克·A.辛格(Michael A. Singer)<br /><img src="img/51I4NVSU4hL._AC_SY1000_.jpg" height="200px" /> |
+| [《臣服实验》迈克·A.辛格(Michael A. Singer)著 易灵运译](./notes/臣服实验_迈克·A.辛格.md)<br /> <img src="./img/719Vx4hXQlL.jpg" height="200px" /> | 《清醒地活：超越自我的生命之旅》迈克·A.辛格(Michael A. Singer), 汪幼枫, 陈舒<br /> <img src="img/71VoFLv+sBL._AC_UL600_SR600,600_.jpg" height="200px" /> | 《不羁的灵魂:超越自我的旅程》迈克·A.辛格(Michael A. Singer)<br /><img src="img/51I4NVSU4hL._AC_SY1000_.jpg" height="200px" /> |
 |                                                              |                                                              |                                                              |
 | 《谈读书》 朱光潜<br /><img src="./img/956a0b007b3673573215dcbfdb063df.jpg" height="200px" /> | 《给青年的十二封信》 朱光潜<br /><img src="./img/6282397ac59cbfca1a4a9aaf119e4d2.jpg" height="200px" /> | 《美的历程》李泽厚<br /><img src="./img/s3893343.jpg" height="200px" /> |
 |                                                              |                                                              |                                                              |
