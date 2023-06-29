@@ -1,6 +1,7 @@
 # booklist
 
-|                              01                              |                              02                              |                              03                              |
+<<<<<<< HEAD
+|  <img width=130/>        |       <img width=130/>                               |       <img width=130/>                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [《臣服实验》迈克·A.辛格(Michael A. Singer)著 易灵运译](./notes/臣服实验_迈克·A.辛格.md) |  《清醒地活：超越自我的生命之旅》迈克·A.辛格, 汪幼枫, 陈舒   | 《不羁的灵魂:超越自我的旅程》迈克·A.辛格(Michael A. Singer)  |
 | <div align="center"><img src="./img/719Vx4hXQlL.jpg" alt="图片" style="max-height: 200px; width: auto;"></div> | <div align="center"><img src="./img/71VoFLv+sBL._AC_UL600_SR600,600_.jpg" alt="图片" style="max-height: 200px; width: auto;"></div> | <div align="center"><img src="./img/51I4NVSU4hL._AC_SY1000_.jpg" alt="图片" style="max-height: 200px; width: auto;"></div> |
