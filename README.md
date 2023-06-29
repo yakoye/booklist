@@ -10,8 +10,13 @@
 |                                                              |                                                              |                                                              |
 | 《原则》 瑞·达利欧<br /><img src="./img/71hvjX7BamL._AC_UF1000,1000_QL80_.jpg" height="200px" /> | 《原则：应对变化中的世界秩序》 瑞·达利欧<br /> <img src="./img/41aFxxnusgL.jpg" height="200px" /> | 《债务危机》瑞·达利欧(Ray Dalio) <br /><img src="./img/91558RDi0ML._AC_UF1000,1000_QL80_.jpg" height="200px" /> |
 |                                                              |                                                              |                                                              |
-| [《自我突围》 施一公](./notes/自我突围_施一公.md)<br /><img src="./img/141b0e88-68d3-4ef1-8208-fde60e232a49.jpg" height="200px" /> |                                                              |                                                              |
+| [《自我突围》 施一公](./notes/自我突围_施一公.md)<br /><img src="./img/141b0e88-68d3-4ef1-8208-fde60e232a49.jpg" height="200px" /> | [《平面国》埃德温·A·艾勃特](./notes/自我突围_施一公.md)<br /><img src="./img/s33710398.jpg" height="200px" /> | [《xxx》 yyy](./notes/xxx_yyy.md)<br /><img src="./img/zzz.jpg" height="200px" |
 |                                                              |                                                              |                                                              |
+| [《xxx》 yyy](./notes/xxx_yyy.md)<br /><img src="./img/zzz.jpg" height="200px" | [《xxx》 yyy](./notes/xxx_yyy.md)<br /><img src="./img/zzz.jpg" height="200px" | [《xxx》 yyy](./notes/xxx_yyy.md)<br /><img src="./img/zzz.jpg" height="200px" |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+![平面国- 图书- 豆瓣]
 
 ```
 [《自我突围》 施一公](./notes/自我突围_施一公.md)<br /><img src="./img/141b0e88-68d3-4ef1-8208-fde60e232a49.jpg" height="200px"
